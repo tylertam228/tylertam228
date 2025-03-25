@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @tylertam228
-
-<!---
-tylertam228/tylertam228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
