@@ -9,3 +9,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure"/>
+</p>
+
