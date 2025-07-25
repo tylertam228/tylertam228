@@ -1,7 +1,7 @@
 # Hi, Everyone!
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=500&color=ED2F32¢er=true&vCenter=true&width=435&lines=GAME;ANIMATION;MUSIC;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=500&color=ED2F32&center=true&vCenter=true&width=435&lines=GAME;ANIMATION;MUSIC;" alt="Typing SVG"/>
 </p>
 
 <p align="left">
