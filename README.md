@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8b/ea/fd/8beafd0bedfe11cb1af76c8be02bbf2e.gif" alt="Animation" width="600"/>
+  <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/anime.gif" alt="Animation" width="600"/>
 </p>
 
 ## Connect with Me
