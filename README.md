@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  My passion for game engineering stems from the enchanting blend of animation, music, coding, and storytelling. These elements have been my solace during life's lowest moments, and now I am learing how to dedicate to crafting immersive gaming experiences to inspire others.
+  My passion for game engineering stems from the enchanting blend of animation, music, coding, and storytelling. These elements have been my solace during life's lowest moments, and now I am learning how to dedicate myself to crafting immersive gaming experiences to inspire others.
 </p>
 
 <p align="center">
