@@ -22,7 +22,7 @@
 ## Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript" alt="ProgrammingLanguages"/>
 </p>
 
 <p align="left">
@@ -30,8 +30,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40"/>
-  
+  <img src="https://skillicons.dev/icons?i=azure" alt="Devops"/>
 </p>
 
 
