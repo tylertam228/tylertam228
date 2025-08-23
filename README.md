@@ -40,5 +40,5 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylertam228&layout=compact&theme=radical&langs_count=4" alt="Language Distribution"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylertam228&layout=compact&theme=radical&langs_count=6" alt="Language Distribution"/>
 </p>
