@@ -27,15 +27,15 @@
 ## Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript" alt="ProgrammingLanguages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript&perline=5" alt="ProgrammingLanguages"/>
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,godot,arduino" alt="Platforms"/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,godot,arduino,supabase,vercel&perline=4" alt="Platforms"/>
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure" alt="Devops"/>
+  <img src="https://skillicons.dev/icons?i=azure,opencv,bot,discord&perline=5" alt="Devops"/>
 </p>
 
 
