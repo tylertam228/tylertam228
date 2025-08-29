@@ -35,7 +35,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,opencv,bot,discord&perline=5" alt="Devops"/>
+  <img src="https://skillicons.dev/icons?i=azure,opencv,bots,discord&perline=5" alt="Devops"/>
 </p>
 
 
