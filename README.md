@@ -1,5 +1,5 @@
 # Hi, Everyone!
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=500&color=ED2F32&center=true&vCenter=true&width=435&lines=GAME;ANIMATION;MUSIC;" alt="Typing SVG"/>
 </p>
@@ -11,6 +11,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/anime.gif" alt="Animation" width="600"/>
 </p>
+
+## Portfolio
+<p align="center">
+  <a href="https://tylertam228.github.io/">
+    <img src="https://img.shields.io/badge/🎮_Click_to_See_My_Portfolio-00e0ff?style=for-the-badge&labelColor=0a0f16&color=00e0ff&borderColor=00e0ff" alt="Click to See My Portfolio" style="border: 1px solid #00e0ff; border-radius: 10px;"/>
+  </a>
+</p
 
 ## Connect with Me
 <p align="left">
