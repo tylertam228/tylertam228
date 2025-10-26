@@ -9,11 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/anime.gif" alt="Animation" width="600"/>
+  <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/anime.gif" alt="Animation" width="600"/> 
 </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tylertam228.tylertam228&"  />
+</div>
 
-## Portfolio
-<p align="center">
+## Portfolio 
+<p align="left">
   <a href="https://tylertam228.github.io/">
     <img src="https://img.shields.io/badge/🎮_Click_to_See_My_Portfolio-00e0ff?style=for-the-badge&labelColor=0a0f16&color=00e0ff&borderColor=00e0ff" alt="Click to See My Portfolio" style="border: 1px solid #00e0ff; border-radius: 10px;"/>
   </a>
@@ -49,3 +52,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylertam228&layout=compact&theme=radical&langs_count=6" alt="Language Distribution"/>
 </p>
+
+<img src="https://raw.githubusercontent.com/tylertam228/tylertam228/output/snake.svg" alt="Snake animation" />
