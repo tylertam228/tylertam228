@@ -1,5 +1,5 @@
 # Hi, Everyone!
----
+<br>
 <p align="center">
   <picture>
     <source media="(max-width: 480px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=500&color=ED2F32&center=true&vCenter=true&width=320&lines=GAME;ANIMATION;MUSIC;" />
