@@ -2,9 +2,7 @@
 <br>
 <p align="center">
   <picture>
-    <source media="(max-width: 480px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=500&color=ED2F32&center=true&vCenter=true&width=320&lines=GAME;ANIMATION;MUSIC;" />
-    <source media="(max-width: 768px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=500&color=ED2F32&center=true&vCenter=true&width=480&lines=GAME;ANIMATION;MUSIC;" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=500&color=ED2F32&center=true&vCenter=true&width=800&lines=GAME;ANIMATION;MUSIC;" alt="Typing SVG" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=ED2F32&center=true&vCenter=true&width=800&lines=GAME;ANIMATION;MUSIC;" alt="Typing SVG" width="100%" />
   </picture>
 </p>
 
