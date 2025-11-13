@@ -1,7 +1,11 @@
 # Hi, Everyone!
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=500&color=ED2F32&center=true&vCenter=true&width=435&lines=GAME;ANIMATION;MUSIC;" alt="Typing SVG"/>
+  <picture>
+    <source media="(max-width: 480px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=500&color=ED2F32&center=true&vCenter=true&width=320&lines=GAME;ANIMATION;MUSIC;" />
+    <source media="(max-width: 768px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=500&color=ED2F32&center=true&vCenter=true&width=480&lines=GAME;ANIMATION;MUSIC;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=500&color=ED2F32&center=true&vCenter=true&width=800&lines=GAME;ANIMATION;MUSIC;" alt="Typing SVG" width="100%" />
+  </picture>
 </p>
 
 <p align="left">
@@ -20,9 +24,9 @@
   <a href="https://tylertam228.github.io/">
     <img src="https://img.shields.io/badge/🎮_Click_to_See_My_Portfolio-00e0ff?style=for-the-badge&labelColor=0a0f16&color=00e0ff&borderColor=00e0ff" alt="Click to See My Portfolio" style="border: 1px solid #00e0ff; border-radius: 10px;"/>
   </a>
-</p
+</p>
 
-## Connect with Me
+## Connect with Me (Not Yet Linked)
 <p align="left">
   <a href="https://www.linkedin.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="40"/></a>
   <a href="https://www.instagram.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" width="40"/></a>
@@ -31,26 +35,26 @@
 
 ## Support Me
 <p align="left">
-  <a href="https://www.buymeacoffee.com/tiger228"><img src="https://img.buymeacoffee.com/button-api/?text=Donation%20Support&emoji=%F0%9F%8E%AE&slug=tiger228&button_colour=28d5d7&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00&t=123456" />
+  <a href="https://www.buymeacoffee.com/tiger228"><img src="https://img.buymeacoffee.com/button-api/?text=Donation%20Support&emoji=%F0%9F%8E%AE&slug=tiger228&button_colour=28d5d7&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00&t=123456" /></a>
 </p>
 
 ## Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript&perline=5" alt="ProgrammingLanguages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,typescript,html,css&perline=5" alt="ProgrammingLanguages"/>
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,godot,arduino,supabase,vercel&perline=4" alt="Platforms"/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,godot,arduino,supabase,vercel&perline=5" alt="Platforms"/>
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,opencv,bots,discord&perline=5" alt="Devops"/>
+  <img src="https://skillicons.dev/icons?i=azure,opencv,bots,discord,flask&perline=5" alt="Devops"/>
 </p>
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylertam228&layout=compact&theme=radical&langs_count=6" alt="Language Distribution"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylertam228&layout=compact&theme=radical&langs_count=4" alt="Language Distribution"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/output/snake.svg" alt="Snake animation" />
