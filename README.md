@@ -52,7 +52,7 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylertam228&layout=compact&theme=radical&langs_count=4" alt="Language Distribution"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylertam228&layout=compact&theme=radical&langs_count=6" alt="Language Distribution"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/output/snake.svg" alt="Snake animation" />
