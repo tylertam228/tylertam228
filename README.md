@@ -38,7 +38,7 @@
 
 ### Game Engines & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,godot,react,nextjs,nodejs,tailwind,vite,bootstrap,discordjs,flask,nginx,npm&perline=6" alt="Game Engines & Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=unity,godot,react,nextjs,nodejs,tailwind,vite,bootstrap,discordjs,flask,nginx,npm,django&perline=6" alt="Game Engines & Frameworks"/>
 </p>
 
 ### Databases & Cloud Services
@@ -65,9 +65,9 @@
 
 ## 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="40"/></a>
+  <a href="https://www.linkedin.com/in/tyler-tam-s228"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" width="40"/></a>
+  <a href="https://www.instagram.com/tiger___228"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" width="40"/></a>
 </p>
 
 ## ☕ Support Me
