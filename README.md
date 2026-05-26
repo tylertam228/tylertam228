@@ -1,13 +1,11 @@
 # Hi, Everyone! 👋
 <br>
 <p align="center">
-  <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=ED2F32&center=true&vCenter=true&width=800&lines=GAME+DEVELOPER;ANIMATION;MUSIC;INTERACTIVE+EXPERIENCES" alt="Typing SVG" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/banner.svg" alt="Software Engineer / Game Developer" width="800"/>
 </p>
 
 <p align="left">
-  My passion for game engineering stems from the enchanting blend of animation, music, coding, and storytelling. These elements have been my solace during life's lowest moments, and now I am dedicating myself to crafting immersive gaming experiences to inspire others.
+  I have always been interested by how the digital world is built since it just like building a different life. But what truly shaped my direction was realizing that the most meaningful things I could build are not just impressive, but genuinely useful to real people. My passion for game engineering stems from the enchanting blend of animation, music, coding, and storytelling. These elements have been my solace during life's lowest moments, and now I am dedicating myself to crafting immersive gaming experiences to inspire others.
 </p>
 
 <p align="center">
@@ -65,9 +63,7 @@
 
 ## 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/tyler-tam-s228"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/tiger___228"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" width="40"/></a>
+  <a href="https://www.linkedin.com/in/tyler-tam-s228"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## ☕ Support Me
