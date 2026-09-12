@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tiger228 (Tyler) 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=00E0FF&center=true&vCenter=true&width=820&height=50&lines=Year+4+Computer+Engineering+Student+%40CUHK;Software+Engineer+%7C+Game+Engineer;Building+useful+software+%26+games;Python+%7C+C%23+%7C+TypeScript" alt="Typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=00E0FF&center=true&vCenter=true&width=820&height=50&lines=Year+4+Computer+Engineering+Student+%40CUHK;Software+Engineer+%7C+Game+Engineer;Building+Useful+Software+%26+Games;Python+%7C+C%23+%7C+TypeScript" alt="Typing banner"/>
 </p>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ```
 ┌──────────────────────────────────────────────┐
-│ TIGER228                                      │
+│ TIGER228                                     │
 ├──────────────────────────────────────────────┤
 │ A wild Software Engineer / Game Engineer     │
 │ appears!                                     │
@@ -36,8 +36,8 @@
 
 <p align="center">
   <a href="https://tyhstudio.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/tyler-tam-s228"><img src="https://img.shields.io/badge/LinkedIn_to_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn to Connect"/></a>
-  <a href="mailto:tiger228.tyh@outlook.com"><img src="https://img.shields.io/badge/Email_to_Connect-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email to Connect"/></a>
+  <a href="https://www.linkedin.com/in/tyler-tam-s228"><img src="https://img.shields.io/badge/LinkedIn_to_Connect-0A66C2?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn to Connect"/></a>
+  <a href="mailto:tiger228.tyh@outlook.com"><img src="https://img.shields.io/badge/Email_to_Connect-EA4335?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTIwIDRINGMtMS4xIDAtMiAuOS0yIDJ2MTJjMCAxLjEuOSAyIDIgMmgxNmMxLjEgMCAyLS45IDItMlY2YzAtMS4xLS45LTItMi0yem0wIDQtOCA1LTgtNVY2bDggNSA4LTV2MnoiLz48L3N2Zz4%3D" alt="Email to Connect"/></a>
   <a href="https://www.buymeacoffee.com/tiger228"><img src="https://img.shields.io/badge/Support-FF813F?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support"/></a>
 </p>
 
