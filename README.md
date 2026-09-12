@@ -45,7 +45,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tylertam228.tylertam228&" alt="Visitors"/>
   <img src="https://img.shields.io/github/followers/tylertam228?label=Followers&style=flat&color=00e0ff" alt="Followers"/>
   <img src="https://img.shields.io/badge/Location-Hong_Kong-F43F5E?style=flat" alt="Location"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-10B981?style=flat" alt="Status"/>
+  <img src="https://img.shields.io/badge/Repositories-14-10B981?style=flat" alt="Repositories"/>
 </p>
 
 ---
