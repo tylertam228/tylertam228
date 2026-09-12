@@ -1,13 +1,14 @@
-# Hi, Everyone! <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/wave.svg" width="28" valign="middle"/>
+<h1 align="center">Hi, I'm Tiger228 (Tyler) 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=00E0FF&center=true&vCenter=true&width=820&height=50&lines=Year+4+Computer+Engineering+Student+%40CUHK;Software+Engineer+%7C+Game+Engineer;Building+useful+software+%26+games;Python+%7C+C%23+%7C+TypeScript;Open+to+Internships+%26+Part-time+Roles" alt="Typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=00E0FF&center=true&vCenter=true&width=820&height=50&lines=Year+4+Computer+Engineering+Student+%40CUHK;Software+Engineer+%7C+Game+Engineer;Building+useful+software+%26+games;Python+%7C+C%23+%7C+TypeScript" alt="Typing banner"/>
 </p>
 
+<div align="center">
 <table>
 <tr>
-<td width="140" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/tiger-avatar.png" width="120" alt="Tiger228"/>
+<td width="130" align="center" valign="middle">
+  <img src="assets/tiger-avatar.png" width="110" alt="Tiger228"/>
 </td>
 <td valign="middle">
 
@@ -16,65 +17,54 @@
 │ TIGER228                                      │
 ├──────────────────────────────────────────────┤
 │ A wild Software Engineer / Game Engineer     │
-│ appears!                                      │
-│                                                │
-│ > Loves shipping real projects, tinkering     │
-│   with game engines, and one too many cups    │
-│   of lemon tea.                               │
-│                                          [▼]  │
+│ appears!                                     │
+│                                              │
+│ > Loves shipping real projects, tinkering    │
+│   with game engines, and one too many cups   │
+│   of lemon tea.                          [▼] │
 └──────────────────────────────────────────────┘
 ```
 
 </td>
 </tr>
 </table>
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/anime.gif" alt="Animation" width="420"/>
+  <img src="assets/anime.gif" alt="Animation" width="460"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/tiger-walk-stage.svg" alt="Pixel tiger walking" width="700"/>
+  <a href="https://tyhstudio.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/tyler-tam-s228"><img src="https://img.shields.io/badge/LinkedIn_to_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn to Connect"/></a>
+  <a href="mailto:tiger228.tyh@outlook.com"><img src="https://img.shields.io/badge/Email_to_Connect-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email to Connect"/></a>
+  <a href="https://www.buymeacoffee.com/tiger228"><img src="https://img.shields.io/badge/Support-FF813F?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support"/></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/visitor.svg" width="20" valign="middle"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tylertam228.tylertam228&" />
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://tyhstudio.com">
-    <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/portfolio.svg" width="20" valign="middle"/>
-    <img src="https://img.shields.io/badge/Portfolio-00e0ff?style=for-the-badge&labelColor=0a0f16&color=00e0ff" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tyler-tam-s228">
-    <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/connect.svg" width="20" valign="middle"/>
-    <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
-  </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/tiger228">
-    <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/support.svg" width="20" valign="middle"/>
-    <img src="https://img.shields.io/badge/Support-28d5d7?style=for-the-badge&labelColor=0a0f16&color=28d5d7" alt="Support"/>
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tylertam228.tylertam228&" alt="Visitors"/>
+  <img src="https://img.shields.io/github/followers/tylertam228?label=Followers&style=flat&color=00e0ff" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Location-Hong_Kong-F43F5E?style=flat" alt="Location"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-10B981?style=flat" alt="Status"/>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/about.svg" width="26" valign="middle"/> About
+## <img src="assets/icons/about.svg" width="24" valign="middle"/> About
 
-- <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/working.svg" width="18" valign="middle"/> **Working** — Part-time Software Engineer at **Pivotal Technologies Limited**
-- <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/studying.svg" width="18" valign="middle"/> **Studying** — B.Eng. in Computer Engineering at **CUHK** (Expected 2027)
-- <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/goals.svg" width="18" valign="middle"/> **Goals** — Software Engineer · Game Engineer
-- <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/passion.svg" width="18" valign="middle"/> **Passion from** — Animation, music, coding & storytelling
-- <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/focus.svg" width="18" valign="middle"/> **Current Focus** — Software Engineering · Web Development · Game Development
-- <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/timezone.svg" width="18" valign="middle"/> **Time Zone** — Hong Kong · HKT (UTC+8)
+- <img src="assets/icons/working.svg" width="18" valign="middle"/> **Working** — Part-time Software Engineer at **Pivotal Technologies Limited**
+- <img src="assets/icons/studying.svg" width="18" valign="middle"/> **Studying** — B.Eng. in Computer Engineering at **CUHK** (Expected 2027)
+- <img src="assets/icons/goals.svg" width="18" valign="middle"/> **Goals** — Software Engineer · Game Engineer | What I've made can genuinely helping people
+- <img src="assets/icons/passion.svg" width="18" valign="middle"/> **Passion from** — Animation, Music, Coding & Storytelling
+- <img src="assets/icons/timezone.svg" width="18" valign="middle"/> **Time Zone** — Hong Kong · HKT (UTC+8)
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/tech-orbit.svg" alt="Orbiting Tech Stack" width="360"/>
+  <img src="assets/tech-orbit.svg" alt="Orbiting Tech Stack" width="420"/>
 </p>
 
-## <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/tech.svg" width="26" valign="middle"/> Tech Stack
+## <img src="assets/icons/tech.svg" width="24" valign="middle"/> Tech Stack
 
 ### Programming Languages
 <p align="left">
@@ -108,7 +98,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/tylertam228/tylertam228/main/assets/icons/stats.svg" width="26" valign="middle"/> GitHub Stats
+## <img src="assets/icons/stats.svg" width="24" valign="middle"/> GitHub Stats
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tylertam228&layout=compact&theme=radical&langs_count=8" alt="Language Distribution"/>
