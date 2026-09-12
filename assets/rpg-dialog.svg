@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 550 145" width="550" height="145">
+  <defs>
+    <style>
+      .name-tag { font-family: 'Fira Code', monospace; font-size: 11px; font-weight: 700; fill: #00e0ff; letter-spacing: 1px; }
+      .level-tag { font-family: 'Fira Code', monospace; font-size: 10px; font-weight: 600; fill: #7d8590; }
+      .dialog-header { font-family: 'Fira Code', monospace; font-size: 13.5px; font-weight: 600; fill: #58a6ff; }
+      .dialog-body { font-family: 'Fira Code', monospace; font-size: 12.5px; font-weight: 400; fill: #e6edf3; }
+      .dialog-indent { font-family: 'Fira Code', monospace; font-size: 12.5px; font-weight: 400; fill: #8b949e; }
+      .prompt { font-family: 'Fira Code', monospace; font-size: 13px; font-weight: 700; fill: #00e0ff; }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.2; }
+      }
+      .cursor-blink {
+        animation: blink 1s infinite;
+      }
+    </style>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#00e0ff" flood-opacity="0.15"/>
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <!-- Speech bubble with tail pointing to avatar on the left -->
+  <g filter="url(#glow)">
+    <path d="
+      M 32 12
+      L 536 12
+      A 12 12 0 0 1 548 24
+      L 548 123
+      A 12 12 0 0 1 536 135
+      L 32 135
+      A 12 12 0 0 1 20 123
+      L 20 78
+      L 4 67
+      L 20 54
+      L 20 24
+      A 12 12 0 0 1 32 12
+      Z
+    " fill="#0d1117" stroke="#00e0ff" stroke-width="1.6" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Nameplate badge -->
+  <rect x="34" y="20" width="86" height="20" rx="4" fill="#00e0ff" fill-opacity="0.15" stroke="#00e0ff" stroke-width="1"/>
+  <text x="77" y="34" text-anchor="middle" class="name-tag">TIGER228</text>
+  <text x="130" y="34" class="level-tag">[LV. 99 ENGINEER]</text>
+
+  <!-- Divider line -->
+  <line x1="34" y1="48" x2="534" y2="48" stroke="#30363d" stroke-width="1" stroke-dasharray="4 3"/>
+
+  <!-- Dialogue Text -->
+  <text x="34" y="70" class="dialog-header">A wild Software Engineer / Game Engineer appears!</text>
+  <text x="34" y="92" class="dialog-body">&gt; Loves shipping real projects, tinkering with game engines,</text>
+  <text x="48" y="112" class="dialog-indent">and one too many cups of lemon tea.</text>
+
+  <!-- Prompt Indicator -->
+  <g class="cursor-blink">
+    <text x="516" y="125" class="prompt">▼</text>
+    <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite" />
+  </g>
+</svg>

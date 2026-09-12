@@ -4,31 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=00E0FF&center=true&vCenter=true&width=820&height=50&lines=Year+4+Computer+Engineering+Student+%40CUHK;Software+Engineer+%7C+Game+Engineer;Building+Useful+Software+%26+Games;Python+%7C+C%23+%7C+TypeScript" alt="Typing banner"/>
 </p>
 
-<div align="center">
-<table>
-<tr>
-<td width="130" align="center" valign="middle">
-  <img src="assets/tiger-avatar.png" width="110" alt="Tiger228"/>
-</td>
-<td valign="middle">
-
-```
-┌──────────────────────────────────────────────┐
-│ TIGER228                                     │
-├──────────────────────────────────────────────┤
-│ A wild Software Engineer / Game Engineer     │
-│ appears!                                     │
-│                                              │
-│ > Loves shipping real projects, tinkering    │
-│   with game engines, and one too many cups   │
-│   of lemon tea.                          [▼] │
-└──────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <img src="assets/tiger-avatar.png" width="105" valign="middle" alt="Tiger228"/>
+  <img src="assets/rpg-dialog.svg" width="530" valign="middle" alt="RPG Dialogue"/>
+</p>
 
 <p align="center">
   <img src="assets/anime.gif" alt="Animation" width="460"/>
