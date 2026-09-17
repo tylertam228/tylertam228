@@ -34,7 +34,7 @@
 - <img src="assets/icons/working.svg" width="18" valign="middle"/> **Working** — Part-time Software Engineer at **Pivotal Technologies Limited**
 - <img src="assets/icons/studying.svg" width="18" valign="middle"/> **Studying** — B.Eng. in Computer Engineering at **CUHK** (Expected 2027)
 - <img src="assets/icons/goals.svg" width="18" valign="middle"/> **Goals** — Software Engineer · Game Engineer | What I've made can genuinely helping people
-- <img src="assets/icons/passion.svg" width="18" valign="middle"/> **Passion from** — Animation, Music, Coding & Storytelling
+- <img src="assets/icons/passion.svg" width="18" valign="middle"/> **Passion from** — Game, Animation, Music
 - <img src="assets/icons/timezone.svg" width="18" valign="middle"/> **Time Zone** — Hong Kong · HKT (UTC+8)
 
 ---
